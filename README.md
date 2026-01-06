@@ -15,4 +15,4 @@ Responsive landing page for a fictional food brand "Kashan Bites".
 - Customer reviews and order form
 
 ## Live Demo
-[View Live](https://<username>.github.io/kashan-bites/)
+[View Live](https://kashandeveloper.github.io/Kashan-Bites/)
